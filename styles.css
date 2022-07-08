@@ -95,19 +95,26 @@ p{
 @media (max-width: 600px){
       main{
         display: block;
-        width: 200px;
-
+        width: 250px;
+        height:50%;
         grid-template-columns: none;
 
       }
       .leftobject{
         background-image: url("./images/image-product-mobile.jpg");
-        background-position: relative;
-        border-radius: 10px 10px 0 0;
+        background-position:center;
+        background-size:cover;
+        Width:30rem;
+        border-radius: 10px 10px 0 0
+        height:20rem;
+
       }
-     
+
+      .rightobject{
+         padding:25px
+      }
       .rightobject > h2 {
-        padding:0;
+        padding:0
         margin: 0;
       }
       #nd{

@@ -96,7 +96,7 @@ p{
       main{
         display: grid;
         width: 250px;
-        height:60%;
+        height:60vh;
         grid-template-columns: none;
         border-radius:10px;
         Justify-content: center;
@@ -109,12 +109,14 @@ p{
         background-position:center;
   
         border-radius: 10px 10px 0 0;
+        height:50%;
 
 
       }
 
       .rightobject{
          padding:8px;
+         height:50%;
       }
       .rightobject > h2 {
         padding:0;

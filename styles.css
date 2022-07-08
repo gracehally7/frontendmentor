@@ -15,7 +15,7 @@ body{
  }
 main{
     width: 500px;
-    height: 70vh;
+    height: 50vh;
     display: flex:
    /* grid-template-columns: 1fr 1fr; this gives it tw0 columns */
     background: #fff;
@@ -99,14 +99,16 @@ p{
         height:50%;
         grid-template-columns: none;
         border-radius:10px;
+        Justify-content: center;
+        align-items: center;
 
       }
       .leftobject{
         background-image: url("./images/image-product-mobile.jpg");
         background-position:center;
-        background-size:cover;
+  
         border-radius: 10px 10px 0 0;
-        height:20rem;
+
 
       }
 
@@ -114,12 +116,11 @@ p{
          padding:0;
       }
       .rightobject > h2 {
-        padding:0px;
-        margin-bottom:15px
+        padding:0;
+        margin-bottom:15px;
       }
       #nd{
         font-size: 8.5px;
-        padding-bottom: 10px;
         letter-spacing: 0px;
     }
       #h{

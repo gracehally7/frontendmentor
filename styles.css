@@ -94,7 +94,7 @@ p{
 }
 @media (max-width: 375px){
       main{
-        display: block;
+        display: grid;
         width: 300px;
         height:50%;
         grid-template-columns: none;
@@ -112,9 +112,11 @@ p{
 
       .rightobject{
          padding:25px
+         width:relative;
       }
       .rightobject > h2 {
-        padding:8px;
+
+        padding:0px;
         margin-bottom:10px
       }
       #nd{

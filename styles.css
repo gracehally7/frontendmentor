@@ -103,9 +103,7 @@ p{
         background-position: relative;
         border-radius: 10px 10px 0 0;
       }
-      .rightobject{
-          padding-top: 6px;
-    }
+     
       .rightobject > h2 {
         padding:0;
         margin: 0;

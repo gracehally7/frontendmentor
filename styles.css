@@ -95,7 +95,7 @@ p{
 @media (max-width: 375px){
       main{
         display: grid;
-        width: 300px;
+        width: 250px;
         height:50%;
         grid-template-columns: none;
         border-radius:10px;
@@ -114,16 +114,15 @@ p{
          padding:0;
       }
       .rightobject > h2 {
-
         padding:0px;
-        margin-bottom:10px
+        margin-bottom:15px
       }
       #nd{
         font-size: 8.5px;
         padding-bottom: 10px;
         letter-spacing: 0px;
     }
-      h{
+      #h{
         padding-bottom:15px;
     }
       #cart{

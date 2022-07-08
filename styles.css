@@ -98,14 +98,14 @@ p{
         width: 300px;
         height:50%;
         grid-template-columns: none;
+        border-radius:10px;
 
       }
       .leftobject{
         background-image: url("./images/image-product-mobile.jpg");
         background-position:center;
         background-size:cover;
-        Width:300px;
-        border-radius: 10px 10px 0 0
+        border-radius: 10px 10px 0 0;
         height:20rem;
 
       }
@@ -114,7 +114,7 @@ p{
          padding:25px
       }
       .rightobject > h2 {
-        padding:0
+        padding:10px;
         margin: 0;
       }
       #nd{

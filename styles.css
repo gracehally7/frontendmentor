@@ -95,7 +95,7 @@ p{
       main{
         display: block;
         width: 250px; 
-        height: 70vh;
+        height: 100vh;
         grid-template-columns: none;
 
       }

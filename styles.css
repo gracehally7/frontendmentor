@@ -96,7 +96,7 @@ p{
       main{
         display: grid;
         width: 250px;
-        height:50%;
+        height:60%;
         grid-template-columns: none;
         border-radius:10px;
         Justify-content: center;
@@ -114,20 +114,20 @@ p{
       }
 
       .rightobject{
-         padding:0;
+         padding:8px;
       }
       .rightobject > h2 {
         padding:0;
-        margin-bottom:15px;
+        margin-bottom:0;
       }
       #nd{
         font-size: 8.5px;
         letter-spacing: 0px;
     }
-      #h{
+     /* #h{
         padding-bottom:15px;
-    }
+    
       #cart{
         margin-top:10px
-    }
+    }*/
 }

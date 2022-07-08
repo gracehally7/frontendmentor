@@ -94,8 +94,7 @@ p{
 @media (max-width: 600px){
       main{
         display: block;
-        width: 250px; 
-        height:70vh;
+        width: 250px;
         grid-template-columns: none;
         padding:25px;
 

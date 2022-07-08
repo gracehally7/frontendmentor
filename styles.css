@@ -92,7 +92,7 @@ p{
     color: white;
     text-emphasis-color: white;
 }
-@media (max-width: 600px){
+@media (max-width: 375px){
       main{
         display: block;
         width: 300px;
@@ -114,13 +114,15 @@ p{
          padding:25px
       }
       .rightobject > h2 {
-        padding:10px;
-        margin: 0;
+        padding:8px;
+        margin-bottom:10px
       }
       #nd{
         font-size: 8.5px;
-        padding: 10px;
+        padding-bottom: 10px;
         letter-spacing: 0px;
     }
-      
+      #cart{
+        margin-top:10px
+    }
 }

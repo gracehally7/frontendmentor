@@ -15,7 +15,7 @@ body{
  }
 main{
     width: 500px;
-    min-height: 350px;
+    min-height: 300px;
     display: flex;
     background: #fff;
     border-radius: 12px;

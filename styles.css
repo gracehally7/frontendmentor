@@ -82,7 +82,8 @@ p{
 #h span{
     color: hsl(222, 12%, 48%);
     text-decoration: line-through;
-    font-size: 10px;
+    font-size: 15px;
+    font-weight: lighter;
     padding-left: 20px;
 }
 #cart{
@@ -115,6 +116,7 @@ p{
       .rightobject{
         width: 100%;
         padding: 8px;
+        margin-bottom: 10px;
     }
       .rightobject > h1 {
         padding:0;
